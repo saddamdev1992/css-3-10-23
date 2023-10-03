@@ -1,0 +1,12 @@
+.ranga1,
+.ranga2 {
+  letter-spacing: 5px;
+}
+.ranga3 {
+  white-space: pre;
+}
+div {
+  background-color: aquamarine;
+  width: 400px;
+  text-align: center;
+}
